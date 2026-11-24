@@ -1,0 +1,7 @@
+{
+  "name": "cat-one-star-review",
+  "private": true,
+  "type": "module",
+  "description": "A house cat's one-star review of its human, written to /output/entry.txt.",
+  "license": "MIT"
+}
